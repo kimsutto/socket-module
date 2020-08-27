@@ -1,0 +1,20 @@
+﻿  gettimeofday.cxx
+  QUANTAinit.cxx
+C:\Users\park\source\repos\TCP\gettimeofday.cxx(38,17): warning C4244: '=': conversion from '__time64_t' to 'long', possible loss of data
+  QUANTAmisc_debug.cxx
+  QUANTAnet_iovec_c.cxx
+  QUANTAnet_socketbase_c.cxx
+  QUANTAnet_tcp_c.cxx
+C:\Users\park\source\repos\TCP\QUANTAinit.cxx(164,38): warning C4244: '=': conversion from '__time64_t' to 'long', possible loss of data
+C:\Users\park\source\repos\TCP\QUANTAnet_tcp_c.cxx(115,22): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\park\source\repos\TCP\QUANTAnet_tcp_c.cxx(245,19): warning C4244: 'initializing': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\park\source\repos\TCP\QUANTAnet_tcp_c.cxx(293,17): warning C4244: 'initializing': conversion from 'SOCKET' to 'int', possible loss of data
+  QUANTAts_thread_c.cxx
+C:\Users\park\source\repos\TCP\QUANTAnet_tcp_c.cxx(748,35): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\park\source\repos\TCP\QUANTAts_thread_c.cxx(94,18): warning C4244: 'initializing': conversion from 'uintptr_t' to 'unsigned int', possible loss of data
+C:\Users\park\source\repos\TCP\QUANTAts_thread_c.cxx(85,6): warning C4101: 'status': unreferenced local variable
+  TCPClient.cpp
+  TCPClientTest.cpp
+  Generating Code...
+C:\Users\park\source\repos\TCP\QUANTAts_thread_c.cxx(146,8): warning C4101: 'status': unreferenced local variable
+  TCPClient.vcxproj -> C:\Users\park\source\repos\TCP\x64\Debug\TCPClient.exe

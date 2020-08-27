@@ -1,0 +1,15 @@
+﻿  gettimeofday.cxx
+  QUANTAinit.cxx
+C:\Users\park\source\repos\UDP\gettimeofday.cxx(38,17): warning C4244: '=': conversion from '__time64_t' to 'long', possible loss of data
+  QUANTAmisc_debug.cxx
+  QUANTAnet_iovec_c.cxx
+  QUANTAnet_socketbase_c.cxx
+  QUANTAnet_udp_c.cxx
+  QUANTAts_thread_c.cxx
+C:\Users\park\source\repos\UDP\QUANTAinit.cxx(164,38): warning C4244: '=': conversion from '__time64_t' to 'long', possible loss of data
+C:\Users\park\source\repos\UDP\QUANTAts_thread_c.cxx(85,6): warning C4101: 'status': unreferenced local variable
+  UDPClient.cpp
+  UDPClientTest.cpp
+  Generating Code...
+C:\Users\park\source\repos\UDP\QUANTAts_thread_c.cxx(146,8): warning C4101: 'status': unreferenced local variable
+  UDPClient.vcxproj -> C:\Users\park\source\repos\UDP\Debug\UDPClient.exe
